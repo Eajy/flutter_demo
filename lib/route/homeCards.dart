@@ -40,7 +40,7 @@ class HomeCards extends StatelessWidget {
               children: <Widget>[
                 new Image.asset(
                   'res/images/material_design_2.jpg',
-                  height: 192.0,
+//                  height: 192.0,
                   fit: BoxFit.fill,
                 ),
                 const ListTile(
@@ -75,7 +75,7 @@ class HomeCards extends StatelessWidget {
                   children: <Widget>[
                     new Image.asset(
                       'res/images/material_design_4.jpg',
-                      height: 192.0,
+//                      height: 192.0,
                       fit: BoxFit.fill,
                     ),
                     new ListTile(

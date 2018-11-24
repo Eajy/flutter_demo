@@ -1,5 +1,5 @@
 **This is a demo app designed with Material Design.
-It created using [Flutter](https://flutter.io/).**  
+It's created by using [Flutter](https://flutter.io/).**  
 
 #### Google Play:  
 https://play.google.com/store/apps/details?id=com.eajy.flutterdemo  
