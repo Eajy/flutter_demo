@@ -85,7 +85,7 @@ class ListPageState extends State<ListPage> {
                       new Icon(Icons.fiber_manual_record, color: Colors.white),
                 ),
                 title: new Text('$item'),
-                subtitle: new Text('Pull to refresh.\nSwipe to dismiss.'),
+                subtitle: new Text('Pull to refresh. Swipe to dismiss.'),
                 onTap: () {},
               ),
             );
